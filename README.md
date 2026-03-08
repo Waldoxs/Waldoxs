@@ -1,5 +1,8 @@
-# Hola, soy Oswaldo de los Santos 👋 | Software Developer
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hola,%20soy%20Oswaldo%20de%20los%20Santos%20%F0%9F%91%8B%20%7C%20Software%20Developer&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=79&stroke=-&strokeWidth=0&animation=fadeIn&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=128C6E"/>
+</div>
 
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Problem+Solver;Backend+Developer;Computer+Science+Enthusiast" alt="Typing SVG" />
 </p>
@@ -44,11 +47,13 @@ Estos son los proyectos donde he aplicado conceptos avanzados de ingeniería:
 
 ### 📊 Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waldoxs&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Estadísticas de Waldoxs" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waldoxs&layout=compact&theme=radical&border_radius=10" alt="Lenguajes más usados" />
-</p>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/Waldoxs/https://github.com/Waldoxs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/Waldoxs/https://github.com/Waldoxs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/Waldoxs/https://github.com/Waldoxs/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -63,3 +68,5 @@ Estos son los proyectos donde he aplicado conceptos avanzados de ingeniería:
 <p align="center">
   "El código limpio siempre parece que fue escrito por alguien a quien le importa."
 </p>
+
+##
